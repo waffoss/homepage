@@ -1,0 +1,24 @@
+{
+  "bookmarks" : [
+    {
+      "title": "The Verge",
+      "image": "",
+      "url": "https://www.theverge.com/"
+    },
+    {
+      "title": "Polygon",
+      "image": "",
+      "url": "https://www.polygon.com/"
+    },
+    {
+      "title": "YouTube",
+      "image": "",
+      "url": "https://www.youtube.com/"
+    },
+    {
+      "title": "GMail",
+      "image": "",
+      "url": "https://www.gmail.com/"
+    }
+  ]
+}

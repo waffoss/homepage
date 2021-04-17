@@ -1,0 +1,13 @@
+.card{
+  background-color: #aeb8fe;
+  border-radius: 25px;
+  padding: 1rem;
+  margin: 1rem;
+  cursor: pointer;
+  display: flex;
+
+  .logo{
+    width: 1rem;
+    height: 1rem;
+  }
+}
